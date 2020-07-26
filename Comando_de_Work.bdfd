@@ -1,0 +1,6 @@
+$nomention
+$description[
+Você trabalhou e ganhou $random[100;300] R$]
+/// Obs: Voce pode apagar a mensagem do "$description" e tbm os números do $random!
+$setUserVar[Dinheiro;$sum[$getUserVar[Dinheiro;$random[100;300]]
+/// Agora, o "$setUserVar" vai setar a váriavel do dinheiro e o $sum vai somar o conteúdo da variavel
