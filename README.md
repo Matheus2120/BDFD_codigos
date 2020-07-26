@@ -1,2 +1,3 @@
 # BDFD_codigos
-Aqui tera codigos para fazer bot do Discord, mas é para pessoas que programam no Bot Designer For Discord!
+Os códigos são para pessoas que estão aprendendo BDFDscript para desenvolver
+bots para o Discord™
