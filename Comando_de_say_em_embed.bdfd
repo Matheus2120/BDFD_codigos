@@ -1,0 +1,4 @@
+$title[$username#$discriminator[$authorID]
+///Faz um título no embed com o nome e a tag do Usuário
+$description[$message]
+///Faz uma descrição, onde vai a message que o usuário falar
