@@ -1,0 +1,2 @@
+$title[Carteira de $username#$discriminator[$authorID]
+$description[ Você tem $getUserVar[dinheiro] R$]
