@@ -1,2 +1,4 @@
 $title[Carteira de $username#$discriminator[$authorID]
+///Faz um título no Embed com seu nome e sua tag.
 $description[ Você tem $getUserVar[dinheiro] R$]
+///Um descrição com a variável do dinheiro.
